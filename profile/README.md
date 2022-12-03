@@ -1,9 +1,20 @@
 # ServerTribe
 
-*ServerTribe’s mission* is to provide the community access to intuitive and 
-flexible open-source IT automated and orchestrated processes.
+Tedious repetitive tasks are bogging down System Administrator’s and wasting 
+precious time. Tasks are missing deadlines and they are not as efficient as 
+you know they can be.
 
-This account contains *Attune Project* that contain IT automated and orchestrated 
+Our software solution Attune automates and orchestrates processes to streamline 
+deployments, scaling, migrations, and management of your systems. We’re using 
+the Attune platform to build a community of sharable automated and orchestrated 
+processes.
+
+System Administrator’s can leverage the publicly available orchestrated 
+blueprints to increase their productivity, and accelerate the delivery of 
+projects. System Administrator’s can open-source their own and improve existing 
+community orchestrated projects.
+
+This account contains *Attune Projects* that contain IT automated and orchestrated 
 processes. Attune is your simple and flexible IT Automation and 
 Orchestration solution, that can be configured to perform any process or 
 task that a System Administrator or Database Administrator would perform 
@@ -14,3 +25,7 @@ The *Attune Community Edition* can be
 from our [ServerTribe website](https://www.servertribe.com/). You can learn 
 more about Attune through 
 [ServerTribe's YouTube Channel](https://www.youtube.com/channel/UCLRvZajNQXfQPJnYFdeXZ3w).
+
+The collective power of a community of talented individuals working in concert 
+delivers not only more ideas, but quicker development and troubleshooting when 
+issues arise.
