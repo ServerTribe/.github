@@ -1,4 +1,4 @@
-# ServerTribe
+# ServerTribe's Attune IT Automation and Orchestration
 
 Tedious repetitive tasks are bogging down System Administrator’s and wasting 
 precious time. Tasks are missing deadlines and they are not as efficient as 
