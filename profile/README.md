@@ -6,9 +6,10 @@ not as efficient as you know they can be.
 
 Our software solution 
 [Attune](https://www.servertribe.com/comunity-edition/) 
-automates and orchestrates processes to streamline deployments, scaling, 
-migrations, and management of your systems. We’re using the Attune platform 
-to build a community of sharable automated and orchestrated processes.
+automates your 
+[IT Environment Integration Management](https://www.servertribe.com "IT Environment Integration Management")
+. We’re building a community of sharable automated and orchestrated processes 
+to be used on the Attune platform.
 
 System Administrator’s can leverage the publicly available orchestrated 
 blueprints to increase their productivity, and accelerate the delivery of 
