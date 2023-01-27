@@ -7,7 +7,7 @@ not as efficient as you know they can be.
 Our software solution 
 [Attune](https://www.servertribe.com/comunity-edition/) 
 automates your 
-[IT Environment Integration Management](https://www.servertribe.com "IT Environment Integration Management")
+[IT Environment Integration Management](https://github.com/ServerTribe/ "IT Environment Integration Management")
 . We’re building a community of sharable automated and orchestrated processes 
 to be used on the Attune platform.
 
