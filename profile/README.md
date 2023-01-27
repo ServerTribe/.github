@@ -5,8 +5,8 @@ precious time. Tasks are missing deadlines and System Administrator's are
 not as efficient as you know they can be.
 
 Our software solution 
-*[Attune](https://www.servertribe.com/comunity-edition/)* 
-automates your *IT Environment Integration Management*. We’re building a 
+**[Attune](https://www.servertribe.com/comunity-edition/)** 
+automates your **IT Environment Integration Management**. We’re building a 
 community of sharable automated and orchestrated processes to be used on the 
 Attune platform.
 
@@ -15,9 +15,9 @@ blueprints to increase their productivity, and accelerate the delivery of
 projects. System Administrator’s can open-source their own and improve existing 
 community orchestrated projects.
 
-*The collective power of a community of talented individuals working in concert 
+**The collective power of a community of talented individuals working in concert 
 delivers not only more ideas, but quicker development and troubleshooting when 
-issues arise.*
+issues arise.**
 
 ## IT Environment Integration Management
 
@@ -46,7 +46,7 @@ SysOps be more efficient.
 
 # Download Attune NOW!
 
-The *Attune Community Edition* can be 
+The **Attune Community Edition** can be 
 [downloaded for free](https://www.servertribe.com/comunity-edition/) 
 from our [ServerTribe website](https://www.servertribe.com/). You can learn 
 more about Attune through 
