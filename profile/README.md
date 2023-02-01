@@ -2,11 +2,13 @@
 
 ServerTribe enables your SysOps teams to orchestrate your IT environment 
 integration ensuring your processes are streamlined and captured for 
-**simplicity, resilience, and continuity**.
+
+* **simplicity**, 
+* **resilience**, and 
+* **continuity**.
 
 You’re struggling to deploy, scale, migrate, and manage IT infrastructure 
 in such a way to eliminate your technical debt. 
-
 **[ServerTribe's Attune](https://www.servertribe.com/comunity-edition/)**
 , is an **IT Environment Integration Management** solution to increase 
 your velocity of delivery, simplify your operations, build your 
