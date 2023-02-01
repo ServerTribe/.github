@@ -1,23 +1,17 @@
 # ServerTribe's Attune - Orchestrating processes and Capturing knowledge
 
-Tedious repetitive tasks are bogging down System Administrator’s and wasting 
-precious time. Tasks are missing deadlines and System Administrator's are 
-not as efficient as you know they can be.
+ServerTribe enables your SysOps teams to orchestrate your IT environment 
+integration ensuring your processes are streamlined and captured for 
+**simplicity, resilience, and continuity**.
 
-Our software solution 
-**[Attune](https://www.servertribe.com/comunity-edition/)** 
-automates your **IT Environment Integration Management**. We’re building a 
-community of sharable automated and orchestrated processes to be used on the 
-Attune platform.
+You’re struggling to deploy, scale, migrate, and manage IT infrastructure 
+in such a way to eliminate your technical debt. 
 
-System Administrator’s can leverage the publicly available orchestrated 
-blueprints to increase their productivity, and accelerate the delivery of 
-projects. System Administrator’s can open-source their own and improve existing 
-community orchestrated projects.
-
-**The collective power of a community of talented individuals working in concert 
-delivers not only more ideas, but quicker development and troubleshooting when 
-issues arise.**
+**[ServerTribe's Attune](https://www.servertribe.com/comunity-edition/)**
+, is an **IT Environment Integration Management** solution to increase 
+your velocity of delivery, simplify your operations, build your 
+capabilities, effectively respond to change, capture your knowledge, and 
+deliver your process governance.
 
 ## IT Environment Integration Management
 
