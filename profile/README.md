@@ -1,4 +1,4 @@
-# ServerTribe's Attune - Orchestrating processes and Capturing knowledge
+# ServerTribe's Attune - Orchestrating Processes and Capturing Knowledge
 
 ServerTribe enables your SysOps teams to orchestrate your IT environment 
 integration ensuring your processes are streamlined and captured for 
