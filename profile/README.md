@@ -1,10 +1,10 @@
-# Organization Renamed
+# Organisation Renamed
 
 ⚠️ **Important Notice**
 
-This organization has been **renamed and moved**.
+This organisation has been **renamed and moved**.
 
-👉 Please follow and visit the new organization here:  
+👉 Please follow and visit the new organisation here:  
 **https://github.com/AttuneOps**
 
 All future updates, repositories, and development will continue under **AttuneOps**.
